@@ -231,7 +231,7 @@ h2{
     border-radius: 5px;
     border-style: solid;
     padding: 10px 25px 10px 30px;
-    background-image: url('../images/email.png');
+    background-image: url('https://i.imgur.com/SdyUUm3.png');
     background-size: 20px 20px;
     background-repeat: no-repeat;
     background-position-y: center;
@@ -272,23 +272,23 @@ h2{
 }
 
 .personal-link.personal{
-    background-image: url('../images/personalLogo.png');
+    background-image: url('https://i.imgur.com/bZ7yOB8.png');
 }
 
 .social-link.twitter{
-    background-image: url('../images/twitter.png');
+    background-image: url('https://i.imgur.com/rjks6mW.png');
 }
 
 .social-link.facebook{
-    background-image: url('../images/facebook.png');
+    background-image: url('https://i.imgur.com/3rGYX6W.png');
 }
 
 .social-link.github{
-    background-image: url('../images/github.svg');
+    background-image: url('https://i.imgur.com/46pH5H5.png');
 }
 
 .social-link.instagram{
-    background-image: url('../images/instagram.png');
+    background-image: url('https://i.imgur.com/xoy08NB.png');
 }
 
 .footer{
